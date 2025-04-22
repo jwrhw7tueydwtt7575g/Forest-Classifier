@@ -65,7 +65,8 @@ The model expects 54 numeric values, separated by commas
 
 🧑‍💻 Author
 Vivek Mohan Chaudhari
-OUTPUT
+  
+                OUTPUT
 ![WhatsApp Image 2025-04-22 at 16 45 31_6428cf36](https://github.com/user-attachments/assets/1d24134b-53c5-4297-ba75-1a81b09639c4)
 ![WhatsApp Image 2025-04-22 at 16 46 09_78db596c](https://github.com/user-attachments/assets/5f72d9f9-f697-4aaf-ab93-d784fbc71886)
 ![WhatsApp Image 2025-04-22 at 16 49 45_21a36bda](https://github.com/user-attachments/assets/a05209a7-2516-411f-bad0-23ce0e6a7398)
